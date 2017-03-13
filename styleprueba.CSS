@@ -1,0 +1,43 @@
+body{
+  background-color: #CFD8DC;
+}
+
+h2{
+  font-size: 24;
+  font-family: sans-serif;
+}
+#titulo{
+  margin-left: 24px;
+ color:#FF0909;
+ font-size: 48;
+ font-family: sans-serif;
+ margin-top: 16px;
+ text-align:center;
+}
+#foto_comida{
+  width:75%;
+  margin:16px;
+}
+#ingredientes h2{
+  text-align: center;
+}
+#ingredientes{
+  width: 50%;
+  padding:16px;
+  background-color: #ECEFF1;
+  margin-right: 75%;
+  margin-left: 16px;
+}
+#Procedimiento{
+  margin : 16px;
+  padding: 16px;
+  background-color: #ECEFF1;
+}
+#Procedimiento ol{
+  font-family: sans-serif;
+
+}
+
+#Procedimiento li{
+  margin-top: 12px;
+}
