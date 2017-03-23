@@ -1,0 +1,11 @@
+.portfolio-modal .modal-content ol{
+	text-align:center;
+	margin-left:20%;
+	margin-right:20%;
+}
+.portfolio-modal .modal-content li{
+	text-align:left;
+}
+#drive-image{
+	background-color:#19BDAD;
+}

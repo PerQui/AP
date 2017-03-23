@@ -654,7 +654,7 @@ ul.social-buttons li a:active {
   outline: none;
 }
 .portfolio-modal .modal-dialog {
-  margin: 0;
+	margin:0;
   height: 100%;
   width: auto;
 }
@@ -744,3 +744,4 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #03A9F4;
 }
+
