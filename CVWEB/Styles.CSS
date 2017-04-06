@@ -1,0 +1,69 @@
+h1{
+  font-size: 24px;
+  color: #90CAF9;
+  border-bottom: solid;
+  margin-left: 10px;
+}
+#seccion_datos_personales h2{
+  font-size: 48px;
+  color:#2196F3;
+  border:none;
+  margin-left: 10px;
+}
+body{
+  background-color: #e9e9e7;
+}
+.seccion{
+  background-color: #FFFFFF;
+  float: right;
+  width: 79%;
+  margin-bottom: 16px;
+}
+#seccion_datos_personales li{
+  border-bottom: solid #d6b576;
+  margin: 6px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.seccion p{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+ul{
+  list-style-type: none;
+  padding-left: 0px;
+
+}
+.seccion h2{
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #87512b;
+  border-bottom: solid #87512b;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#seccion_formacion p{
+  margin-left: 20px;
+}
+.navegacion{
+  float: left;
+  width: 20%;
+  position: fixed;
+}
+.navegacion li{
+  background-color: #06a0cf;
+  margin-bottom: 16px;
+  padding: 10px;
+  border-radius: 10pt;
+}
+.navegacion a{
+  font-family: Arial, sans-serif;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: bold;
+}
+img{
+  width: 100%;
+  margin-bottom: 10px;
+}
