@@ -13,4 +13,6 @@
 #headerCrearDrive{
 	background-image: url('../img/headerDrive-bg.jpg');
 }
-
+.clear_p{
+	clear: both;
+}
