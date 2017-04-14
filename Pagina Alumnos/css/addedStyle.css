@@ -16,3 +16,15 @@
 .clear_p{
 	clear: both;
 }
+
+
+ul.archivos{font-size:24px;}
+
+li.presentacion{list-style-image:url('../img/icons/presentations-icon.png');}
+.presentacion a{vertical-align:50%;}
+
+li.documento{list-style-image:url('../img/icons/docs-icon.png');}
+.documento a{vertical-align:50%;}
+
+li.spreadsheet{list-style-image: url('../img/icons/spreadsheets-icon.png');}
+.spreadsheet a{vertical-align:50%;}
